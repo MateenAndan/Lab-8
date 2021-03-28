@@ -17,7 +17,7 @@ int InverseIndex(int index, int rownum){
     
 }
 
-// 
+// main method
 int main (){
     int A[8][8];
     int D[32][32];
